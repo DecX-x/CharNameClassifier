@@ -1,6 +1,6 @@
 # CharNameClassifier
 
-This repository contains a Streamlit web app for name classification using a pre-trained Recurrent Neural Network (RNN) model. The app predicts the likely origin of a given name based on its spelling.
+This repository contains a Streamlit web app for name classification using Recurrent Neural Network (RNN). The app predicts the likely origin of a given name based on its spelling.
 
 
 
