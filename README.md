@@ -10,7 +10,7 @@ The CharNameClassifier app uses a pre-trained RNN to classify names into differe
 
 ## Installation
 
-To run this project locally, follow these steps:
+To run this project locally, follow these steps: 
 
 1. **Clone the repository:**
     ```bash
